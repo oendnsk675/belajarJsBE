@@ -31,8 +31,8 @@ pilihan_komputer = Math.round(Math.random() * (2 - 0)) + 0
 
 
 // 5. buatlah fungsi untuk mengadu pilihan user, dan komputer, pada fungsi 
-//    tersebut menerima 3 parameter, parameter pertama nama user, //
-//    parameter ke dua pilihan user, parameter ke tiga pilihan komputer
+//    tersebut menerima 3 parameter, parameter pertama nama_user, //
+//    parameter ke dua pilihan_user, parameter ke tiga pilihan_komputer
 //       kemudian di dalam fungsi tersebut gunakan perkondisian untuk 
 //    mengadu pilihan user, gimana caranya?????
 //    kek gini temen2 kan inputan user, dan komputer berupa integer nanti 
@@ -50,3 +50,5 @@ pilihan_komputer = Math.round(Math.random() * (2 - 0)) + 0
 // kek gitu temen2 itu baru 1 kondisi, lanjutkan menggunakan else if untuk kondisi lainnya jika user milih apa, dan komputer milih apa, maka siapa menang
 
 // dan step no 6 udah ada pada perkondisian tersebut mengluarkan hasil aduan
+
+// selamat mengerjakan
