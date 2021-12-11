@@ -17,7 +17,7 @@ const prompt = require('prompt-sync')(); // kita memasukkan module /package prom
 console.log(`Hallo selamat datang dalam permainan gunting, batu, kertas, disini temen bisa memilih sesuai urutan pilihannya dari 0, misal jika ingin memilih gunting maka pilih no 0, dst...:)`);
 
 // 1. mengambil nama user
-const name = prompt('Masukkan nama anda?: '); // fungsi ini untuk mengambil inputan user dari terminal, mirip scaner yang ada di java, kemudian di save ke variabel nama bertipe const, (gak bisa diubah)
+const nama_user = prompt('Masukkan nama anda?: '); // fungsi ini untuk mengambil inputan user dari terminal, mirip scaner yang ada di java, kemudian di save ke variabel nama bertipe const, (gak bisa diubah)
 
 // 2. buatlah list pilihan user, bisa memakai array, dangan isi urutannya, gunting, batu , kertas
 
