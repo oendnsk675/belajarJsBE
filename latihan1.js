@@ -23,7 +23,7 @@ const nama_user = prompt('Masukkan nama anda?: '); // fungsi ini untuk mengambil
 
 
 // 3. tanyakan ke user mau memilih apa, untuk menanyakan ke user bisa pakek seperti di no 1, tinggal di copas honestly:) masukkan dari user itu berupa no ya temen2, karena misal nanti temen2 membuat list pilihannya itu memakai array jadi kan bisa diakses bosku......, dan tampung pilihan user tersebut ke dalam variabel dengan nama pilihan_user, setelah saya pikir-pikir, saya buatkan saja no3 karna belum saya jelaskan wkwkwk
-pilihan_user  = int(prompt('Masukkan no pilihan anda (0-2): '));
+pilihan_user  = parseInt(prompt('Masukkan no pilihan anda (0-2): '));
 
 
 // 4. membuat pilihan komputer dengan menggunakan fungsi random dari javascript, fungsi random ini akan menghasilkan angka yang kita inginkan
